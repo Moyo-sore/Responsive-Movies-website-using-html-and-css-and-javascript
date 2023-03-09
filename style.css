@@ -150,8 +150,9 @@ section {
 }
 
 .home-text {
+    position: absolute;
     z-index: 1000;
-    padding-top: 250px;
+    padding: 0 150px;
 }
 .home-text span {
     color: var(--bg-color);
