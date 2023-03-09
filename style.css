@@ -151,7 +151,7 @@ section {
 
 .home-text {
     z-index: 1000;
-    padding: 900px 150px;
+    padding: 0 150px;
 }
 .home-text span {
     color: var(--bg-color);
